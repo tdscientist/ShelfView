@@ -2,8 +2,8 @@
 
 *Android custom view to display books on shelf, mimicking a real library*
 
-![Alt text](/screenshot.gif?raw=true "Screenshot" width=100) 
-![Alt text](/screenshot.gif?raw=true "Screenshot" width=100) 
+![](/portrait.png? "Screenshot" | width=10) 
+![](/landscape.png? "Screenshot" | width=100) 
 </br>
 #### How to use ####
 ----
