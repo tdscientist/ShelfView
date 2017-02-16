@@ -1,4 +1,5 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ShelfView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5299)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ShelfView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5299) [![MaterialUp](https://img.shields.io/badge/MaterialUp-ShelfView-deepblue.svg?style=flat)](https://material.uplabs.com/posts/shelfview)
+
 
 ## ShelfView ##
 
