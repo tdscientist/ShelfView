@@ -1,3 +1,5 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ShelfView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5299)
+
 ## ShelfView ##
 
 *Android custom view to display books on shelf*
