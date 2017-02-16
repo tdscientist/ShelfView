@@ -11,8 +11,8 @@
 **build.gradle**
 ```
 dependencies {
-  compile 'com.com.tdscientist.shelfview:1.0.0' 
-}
+	        compile 'com.github.tdscientist:ShelfView:v1.0'
+	}
 ```
 
 **Layout**
