@@ -1,6 +1,6 @@
 ## ShelfView ##
 
-*Android custom view to display books on shelf, mimicking a real library*
+*Android custom view to display books on shelf*
 
 <img src="/portrait.png" width="340"> <img src="/landscape.png" width="528">
 
