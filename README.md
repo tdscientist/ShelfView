@@ -2,8 +2,8 @@
 
 *Android custom view to display books on shelf, mimicking a real library*
 
-![](/portrait.png "Screenshot") 
-![](/landscape.png "Screenshot") 
+<img src="/portrait.png" width="340"> <img src="/landscape.png" width="520">
+
 </br>
 #### How to use ####
 ----
