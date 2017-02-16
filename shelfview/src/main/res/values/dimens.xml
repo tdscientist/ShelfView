@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="grid_column_width">150dp</dimen>
+    <integer name="shelf_column_width">150</integer>
+    <integer name="shelf_list_item">200</integer>
+    <dimen name="shelf_list_item_height">230dp</dimen>
+    <dimen name="shelf_spacing">0dp</dimen>
+    <dimen name="book_width">140dp</dimen>
+    <dimen name="book_height">190dp</dimen>
+    <dimen name="book_margin_bottom">-10dp</dimen>
+    <integer name="book_width">140</integer>
+    <integer name="book_height">190</integer>
+
+</resources>

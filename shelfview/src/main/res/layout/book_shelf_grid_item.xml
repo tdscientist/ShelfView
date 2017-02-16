@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/shelf_background"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/shelf_list_item_height"
+        android:layout_gravity="center"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/grid_item_background_center" />
+
+
+    <include
+        layout="@layout/book_cover"
+        android:layout_width="@dimen/book_width"
+        android:layout_height="@dimen/book_height"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/book_margin_bottom" />
+
+
+</FrameLayout>

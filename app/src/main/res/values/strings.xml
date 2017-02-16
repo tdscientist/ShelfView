@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shelf View</string>
+    <string name="url_smashing_android_ui">http://3.bp.blogspot.com/-aDUhP55KerE/UGbxmCkyKOI/AAAAAAAAKM8/Ms7Hs6Ln524/s1600/cover.png</string>
+    <string name="url_android_app_dev_for_dummies">https://raw.githubusercontent.com/emmby/android-for-dummies-v3/master/assets/book-cover.png</string>
+    <string name="url_beginning_android">http://eurodroid.com/pics/beginning_android_book.jpg</string>
+    <string name="url_professional_android_programming">http://devproconnections.com/site-files/devproconnections.com/files/uploads/2014/06/Riley%20DCM1061%20Pro_Android_book_cover.jpg</string>
+    <string name="url_android_programming_pshing_the_limits">http://whatpixel.com/images/2016/08/android-programming-pushing-the-limits.jpg</string>
+    <string name="url_100_q_and_a">http://www.lopez-manas.com/wp-content/uploads/2015/07/cover-Kopie-212x300.png</string>
+    <string name="url_android_programming_for_beginners">https://www.packtpub.com/sites/default/files/9781785883262.png</string>
+    <string name="url_android_programming">http://www.informit.com/ShowCover.aspx?isbn=0672336286</string>
+    <string name="title_smashing_android_ui">SMASHING Android UI</string>
+    <string name="title_android_app_dev_for_dummies">Android App Development for DUMMIES</string>
+    <string name="title_beginning_android">Beginning Android</string>
+    <string name="title_professional_android_programming">Professional Android Programming</string>
+    <string name="title_android_programming_pshing_the_limits">ANDROID PROGRAMMING PUSHING THE LIMITS</string>
+    <string name="title_100_q_and_a"><![CDATA[100 Questions & Answer]]></string>
+    <string name="title_android_programming_for_beginners">Android Programming for Beginners</string>
+    <string name="title_android_programming">Android Programming</string>
+</resources>

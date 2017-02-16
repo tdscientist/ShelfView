@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShelfView.iml" filepath="$PROJECT_DIR$/ShelfView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shelfview/shelfview.iml" filepath="$PROJECT_DIR$/shelfview/shelfview.iml" />
+    </modules>
+  </component>
+</project>
