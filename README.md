@@ -2,7 +2,7 @@
 
 *Android custom view to display books on shelf, mimicking a real library*
 
-<img src="/portrait.png" width="340"> <img src="/landscape.png" width="520">
+<img src="/portrait.png" width="340"> <img src="/landscape.png" width="528">
 
 </br>
 #### How to use ####
