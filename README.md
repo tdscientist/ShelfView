@@ -8,7 +8,7 @@
 #### How to use ####
 ----
 
-** **
+**build.gradle**
 ```
 allprojects {
 		repositories {
