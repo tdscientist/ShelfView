@@ -8,7 +8,17 @@
 #### How to use ####
 ----
 
-**build.gradle**
+** **
+```
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+</br>
 ```
 dependencies {
 	        compile 'com.github.tdscientist:ShelfView:v1.0'
