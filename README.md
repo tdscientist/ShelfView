@@ -7,7 +7,9 @@
 
 <img src="/portrait.png" width="340"> <img src="/landscape.png" width="528">
 
-</br>
+
+
+
 #### How to use ####
 ----
 
@@ -21,7 +23,7 @@ allprojects {
 	}
 ```
 
-</br>
+
 ```
 dependencies {
 	        compile 'com.github.tdscientist:ShelfView:v1.0'
@@ -36,7 +38,7 @@ dependencies {
     android:layout_height="match_parent" />
 
 ```
-</br>
+
 
 **Activity**
 ```
@@ -70,7 +72,7 @@ public class MainActivity extends AppCompatActivity implements ShelfView.BookCli
 }
 
 ```
-</br>
+
 
 
 #### Loading book covers from other sources ####
@@ -98,7 +100,7 @@ model.add(new BookModel("alice", "1", "Alice in Wonderland"));
 shelfView.loadData(model, ShelfView.BOOK_SOURCE_DRAWABLE_FOLDER);
 ``` 
 
-</br>
+
 #### Permissions ####
 ----
 ```
@@ -107,7 +109,7 @@ shelfView.loadData(model, ShelfView.BOOK_SOURCE_DRAWABLE_FOLDER);
 ``` 
 
 
-</br>
+
 #### License ####
 ----
 ```
@@ -126,13 +128,13 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-</br>
+
 #### Contributions & Bug Reporting ####
 ---
 tdscientist@gmail.com 
 
 
-</br>
+
 #### Credits ####
 ---
 * [Picasso](https://github.com/square/picasso)
